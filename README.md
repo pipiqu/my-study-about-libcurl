@@ -7,3 +7,6 @@ just record
    - dd
    - ddd
 2. dd
+>1
+>>2
+>>>4
