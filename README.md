@@ -1,11 +1,9 @@
 # my-study-about-libcurl
-just record  
-
-dfdfs  
-dfdf  
-*dfd*
-**ddff**
-***
-<u>123<u>  
-  
-滴滴滴[^12]:123。
+just record
+- 111
+- ddd  
+- ddd
+1. ddd
+ - dd
+ - ddd
+2. dd
