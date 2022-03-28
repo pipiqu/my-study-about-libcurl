@@ -10,3 +10,4 @@ just record
 >1
 >>2
 >>>4
+'print'
