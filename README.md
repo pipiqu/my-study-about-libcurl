@@ -9,7 +9,9 @@ just record
 2. dd
 >1
 >>2
->>>4
-   pirnt
+>>>
+>>>pirnt
       cout
-
+```c++
+ print
+```
