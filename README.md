@@ -1,6 +1,3 @@
 # my-study-about-libcurl
 just record 
--------
-wwww
-=======
-wwww
+12345  132456
