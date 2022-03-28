@@ -14,4 +14,5 @@ just record
       cout
 ```c++
  print
+ cout
 ```
